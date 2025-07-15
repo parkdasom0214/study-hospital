@@ -1,5 +1,4 @@
 import React from 'react';
-import { Link } from 'react-router-dom';
 import styles from '@/pages/review/review-page.module.css';
 import { ReviewList } from '@/pages/review/review-list.jsx';
 
